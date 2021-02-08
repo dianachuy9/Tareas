@@ -1,0 +1,32 @@
+
+var mes = prompt("Escribir el numero del mes a verificar");
+ 
+if(mes==1){
+    alert("Es Invierno");
+} else if (mes==2) {
+    alert("Es Invierno");
+} else if (mes==3) {
+    alert("Es Primavera");
+} else if (mes==4) {
+    alert("Es Primavera");
+}  else if (mes==5) {
+    alert("Es Primavera");
+} else if (mes==6) {
+    alert("Es Verano");
+} else if (mes==7) {
+    alert("Es Verano");
+}  else if (mes==8) {
+    alert("Es Verano");
+}  else if (mes==9) {
+    alert("Es Otoño");
+}   else if (mes==10) {
+    alert("Es Otoño");
+}   else if (mes==11) {
+    alert("Es Otoño");
+} else if (mes==12) {
+    alert ("Es Invierno")
+} else if (mes >13) {
+  alert ("No es un mes valido");
+} else (mes);{
+    alert("21003877  Diana Gabriela Giron Chuy");
+}
