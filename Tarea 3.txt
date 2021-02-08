@@ -1,3 +1,6 @@
+Hola realice un cambio :)
+
+
 var mes = prompt("Escribir el numero del mes a verificar");
  
 if(mes==1){
